@@ -264,7 +264,7 @@ section#team h3.section-subheading {
   }
 }
 
-@media (max-width:600px) {
+@media (max-width:790px) {
   ul.navbar-nav{
     background-color: white;
   }
