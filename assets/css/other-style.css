@@ -6,13 +6,24 @@ body {
   margin: 0px;
 }
 
-.nav {
-  height: 100px;
+nav{
+  position: fixed;
+  top: 0;
   width: 100%;
-  background-color: #ffffff;
-  position: absolute;
+  background-color: #fff;
+  height: 90px;
+  font-family: 'Roboto', sans-serif;
 }
 
+
+footer{
+  font-size: 15px;
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+  background-color: #fff;
+  height: 160px;
+}
 
 #team .text-muted {
   color: #777;
